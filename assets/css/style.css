@@ -1,0 +1,56 @@
+body {
+    background-image: url("../images/pokemon.jpg");
+   
+}
+
+.pikachu {
+	float: right;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.squirtle {
+	float: right;
+	margin-right: 5px;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.charmander {
+	float: right;
+	margin-right: 5px;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.bulbasaur {
+	float: right;
+	margin-right: 5px;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.text{
+	text-align: center;
+}
+
+
+.enemies img {
+	padding-right: 10px;
+}
+
+.enemies {
+	clear: both;
+}
+
+.attack{
+	clear: both;
+}
